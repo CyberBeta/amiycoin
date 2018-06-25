@@ -1,0 +1,2 @@
+# amiycoin
+own cryptocurrency
